@@ -1,4 +1,4 @@
-# [:] Example Node.js Project - sast scan 1 - completed run check updates 10
+# [:] Example Node.js Project - Pull request
 
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
